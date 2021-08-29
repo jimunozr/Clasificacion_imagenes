@@ -1,0 +1,118 @@
+Hola nuevamente ya en esta actividad.
+Lo que vamos a hacer es obtener los datos con los cuales
+vamos a trabajar.
+Para ello necesitamos descargar un par de archivos.
+Luego te explicaré qué vamos a hacer con esos archivos Para
+ello como pueden ver.
+Además, estos los dos no solamente te permiten ejecutar
+código en Payton, sino también ciertos comando de sistema
+operativo.
+Por ejemplo, descargar archivos, listar los ETA, así que
+vamos a Descargar St quite disponible en un dirija y esto
+vamos a leer el archivo.
+Nos aseguramos que esté todo correctamente y Los primos y
+aparece acá.
+Básicamente son clases, Por supuesto, es como dice la
+variable, pero son etiquetas, etiquetas de que de imágenes y
+vamos a descargar para poder detectar o predecir.
+Cuando dibuja, hemos o le entreguemos a nueva imagen.
+Aquí categoría corresponder, por ejemplo, corresponde a una
+estrella, a unos pantalones, a un avión, a una serpiente o
+ojo, etcétera.
+Es lo que necesitamos hacer.
+Por supuesto.
+Las imágenes vienen en formato de imágenes, pero la etiqueta
+de estar en algún tipo de texto y por eso Descargamos este te
+quite. Ahora lo que vamos a hacer es descargar estas imágenes
+como se puede apreciar acá también.
+Lo que vamos a hacer es crear una carpeta llamada Beta.
+Esta carpeta no es que se cree directamente en Google.
+Se crea de forma temporal en el entorno de trabajo de Gul
+Cola, así que no veras.
+Esta carpeta en tuvo el rey, como se puede apreciar también
+para demostrar no se ve esa carpeta, pero si la podemos
+utilizar para organizar la información, luego acá hay un
+método, un método que permite descargar Las imágenes.
+Vamos a utilizar una base bastante conocida que es Yo Data
+Set de Google que, como se puede apreciar en esta página,
+aquí hay distintas Pajines.
+Incluso son cincuenta millones de imágenes de distintas
+categorías.
+Por supuesto, para el entorno de trabajo con el que vamos
+a utilizar este proyecto, tenemos menos recursos para poder
+procesar tantas imágenes o dibujos, así que vamos a descargar
+solamente una porción de esos datos.
+Solamente parte de las categorías que vamos a de decir que
+son las que le dimos del archivo anterior Así que ejecutamos
+Qué método y vamos a empezar a descargar en esta descarga.
+Puede que tarde algunos minutos, así que no te preocupes por
+la espera luego de haber esperado dos minutos y descargar el
+archivo o los archivos.
+Ahora necesitamos importarla librerías.
+Vamos a hacer algunas para leer los archivos o las rutas para
+luego leer los archivos con un país.
+Luego vamos a trabajar con tensos Lobo, específicamente con
+la propia librería Las Capas dentro de lo que quieras,
+quieras Es otra librería si lo podemos llamar así para poder
+trabajar con tensos rock y con otras herramientas más para
+poder desarrollar modelos de aprendizaje profundo de forma
+mucho más ágil, mucho más intuitivo que directamente hacerlo
+contencioso también agiliza un poco o facilita el trabajo
+para los programadores, así que Vamos a Segura.
+Visto aquí no hubo que instalar porque ya tengo sólo flor
+viene instalado en gol Cola, pero si tu está trabajando
+en otro entorno, tienes que hacer y Haití.
+Y está al tensor flog.
+Y así para poder tener estos proyectos.
+Luego lo que vamos a hacer es descargar y procesarla.
+Ata hay por qué?
+Porque ya está en el directorio de ETA que hemos creado
+ficticiamente y necesitamos para cada uno de estos archivos
+poder leerlos con un país porque necesitamos procesarlo.
+Necesitamos generar un modelo y estas imágenes se tienen que
+transformar alguna forma que el modelo puede entender algún
+formato mucho más sencillo utilizar y una imagen.
+Así que acá se carga cada uno de los archivos con un país
+también y ahí se van generando las clases para cada una Esas
+imágenes.
+Luego se empieza a generar lo que es la base
+de entrenamiento y la base de pruebas.
+Porque porque por supuesto, este modelo que vayamos a hacer
+Necesitamos asegurar que funcione, que tenga un cierto
+porcentaje de precisión para luego poder hacer nuevas
+inferencias o predicciones en un entorno productivo.
+Necesitamos balear que nuestro trabajo esté bien, así que
+vamos a ejecutar el método para poder llamarlo.
+Ahora aquí lo vamos a llevar y también tendrá que esperar
+algunos minutos hasta que se termine de cargar toda la data.
+Podemos hacer un prim- Para solamente explicar cuantos datos
+hay. El entrenamiento sea tres cientos, veinte mil bastante
+que podemos utilizar y acá vamos a mostrar algún dato Mi
+forma aleatoria acá según en la propia base.
+Esto ES UNA pizza Puede ser que sean los cortes Hay como se
+puede, pero así se marcó.
+Así se te quito.
+Así que la idea es poder detectar imagines asi dibujada una
+complejidad mayor que procesar una foto.
+Finalmente, lo que necesitamos hacer y prevé procesar los
+datos Ya.
+Tenemos los datos disponible, pero hay que darle cierta forma
+que podamos trabajar en tensos.
+Lo En términos siempre es darle un Richey, una, un una forma
+nueva y transformarlo en Un tipo numérico.
+Un FROB porque Porque de todas formas estos números o
+imágenes se tienen que transformar a numerosos o alguna serie
+de baile para poder procesar de mejor forma.
+Y las clases también se tienen que transformar en categorías
+para poder clasificarlo.
+Y cuando nosotros al modelo le pasemos una imagen, reconozca
+alguna de las categorías que están.
+No son valores al azar, no es que existan nuevas categorías a
+menos tierra.
+Entrenemos el modelo con más datos solamente para especificar
+cuál es el rango de predicción que puede hacer este modelo
+Así que bastaría solamente con ejecutar esto para llegar a
+tener listo.
+Voy a empezar a crear nuestro modelo, que lo vamos a hacer
+desde la siguiente actividad.
+Muchas gracias.
